@@ -8,8 +8,6 @@ Building smart, customizable software and AI solutions for businesses and indivi
 - On-Device Chatbots – Fast and private AI chat on your devices  
 - GenAI Solutions – Smart AI-powered solutions for businesses and individuals, including customizable applications and tools  
 
-🏭 Discover our enterprise-ready solutions:
-
 💡 Learn more about us at SynapZen
 
 --- 
